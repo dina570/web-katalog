@@ -1,0 +1,45 @@
+header {
+    border-bottom: 1px solid #eee;
+    text-align: center;
+}
+
+.judul {
+    background-color: #FFC1DA;
+    height: 30px;
+    
+    color: #000;
+    font-family: judson;
+}
+
+.hero img {
+     width: 100%;
+    height: auto;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.navbar a {
+    padding: 60px;
+    margin: 0;
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+    font-family: inter bold;
+}
+
+.products-container {
+    padding: 40px 20px;
+}
+
+.products-container1-item1 img {
+    width: 30%;
+    justify-content: center;
+    height: auto;
+}
